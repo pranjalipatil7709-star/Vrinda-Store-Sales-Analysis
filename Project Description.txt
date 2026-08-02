@@ -1,0 +1,23 @@
+# Project Description
+   Vrinda Store Sales Analysis is an Excel-based data analysis project that analyzes sales data to provide meaningful business insights. 
+   The project uses Excel features such as Pivot Tables, Pivot Charts, Slicers, and Dashboards to visualize sales performance and help identify trends.
+
+# Key Features
+   - Sales analysis by month
+   - Sales by state
+   - Sales by product category
+   - Sales by customer age and gender
+   - Order status analysis
+   - Interactive dashboard using slicers and charts
+
+# Tools Used
+   - Microsoft Excel
+   - Pivot Tables
+   - Pivot Charts
+   - Slicers
+   - Data Cleaning
+   - Dashboard Design
+
+# Objective
+   The objective of this project is to transform raw sales data into an interactive dashboard that helps businesses understand customer behavior,
+   monitor sales performance, and support better decision-making.
